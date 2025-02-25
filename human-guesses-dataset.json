@@ -1,0 +1,194 @@
+[
+    {
+        "participant_id": 2,
+        "guess": 4
+    },
+    {
+        "participant_id": 3,
+        "guess": 2
+    },
+    {
+        "participant_id": 4,
+        "guess": 6
+    },
+    {
+        "participant_id": 6,
+        "guess": 8
+    },
+    {
+        "participant_id": 7,
+        "guess": 4
+    },
+    {
+        "participant_id": 8,
+        "guess": 2
+    },
+    {
+        "participant_id": 10,
+        "guess": 8
+    },
+    {
+        "participant_id": 11,
+        "guess": 3
+    },
+    {
+        "participant_id": 12,
+        "guess": 6
+    },
+    {
+        "participant_id": 13,
+        "guess": 1
+    },
+    {
+        "participant_id": 14,
+        "guess": 5
+    },
+    {
+        "participant_id": 16,
+        "guess": 4
+    },
+    {
+        "participant_id": 17,
+        "guess": 5
+    },
+    {
+        "participant_id": 18,
+        "guess": 8
+    },
+    {
+        "participant_id": 20,
+        "guess": 6
+    },
+    {
+        "participant_id": 21,
+        "guess": 3
+    },
+    {
+        "participant_id": 22,
+        "guess": 5
+    },
+    {
+        "participant_id": 23,
+        "guess": 7
+    },
+    {
+        "participant_id": 24,
+        "guess": 10
+    },
+    {
+        "participant_id": 25,
+        "guess": 5
+    },
+    {
+        "participant_id": 26,
+        "guess": 7
+    },
+    {
+        "participant_id": 27,
+        "guess": 4
+    },
+    {
+        "participant_id": 28,
+        "guess": 8
+    },
+    {
+        "participant_id": 29,
+        "guess": 5
+    },
+    {
+        "participant_id": 30,
+        "guess": 7
+    },
+    {
+        "participant_id": 31,
+        "guess": 3
+    },
+    {
+        "participant_id": 32,
+        "guess": 5
+    },
+    {
+        "participant_id": 33,
+        "guess": 7
+    },
+    {
+        "participant_id": 34,
+        "guess": 6
+    },
+    {
+        "participant_id": 35,
+        "guess": 7
+    },
+    {
+        "participant_id": 36,
+        "guess": "8"
+    },
+    {
+        "participant_id": 37,
+        "guess": 8
+    },
+    {
+        "participant_id": 38,
+        "guess": 4
+    },
+    {
+        "participant_id": 39,
+        "guess": 9
+    },
+    {
+        "participant_id": 40,
+        "guess": 9
+    },
+    {
+        "participant_id": 41,
+        "guess": 9
+    },
+    {
+        "participant_id": 42,
+        "guess": 9
+    },
+    {
+        "participant_id": 43,
+        "guess": 9
+    },
+    {
+        "participant_id": 44,
+        "guess": 3
+    },
+    {
+        "participant_id": 45,
+        "guess": 9
+    },
+    {
+        "participant_id": 46,
+        "guess": 3
+    },
+    {
+        "participant_id": 47,
+        "guess": 8
+    },
+    {
+        "participant_id": 48,
+        "guess": 1
+    },
+    {
+        "participant_id": 49,
+        "guess": 3
+    },
+    {
+        "participant_id": 50,
+        "guess": 7
+    },
+    {
+        "participant_id": 51,
+        "guess": 9
+    },
+    {
+        "participant_id": 51,
+        "guess": 7
+    },
+    {
+        "participant_id": 48,
+        "guess": 7
+    }
+]
