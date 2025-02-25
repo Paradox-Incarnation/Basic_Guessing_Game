@@ -23,6 +23,8 @@ This is a simple **machine learning-based number guessing game** that improves o
    python guess_game.py
    ```
 3. Follow the on-screen instructions and see if the ML algorithm can guess your number!  
+## **Demo Snap**  
+![image](https://github.com/user-attachments/assets/0b2070b9-1e40-404f-b0ea-5e562270f116)
 
 ## **Contributions**  
 Feel free to improve the game by implementing **better learning algorithms, probability-based predictions, or GUI support**! Open a PR and let’s make this game even smarter. 🚀  
